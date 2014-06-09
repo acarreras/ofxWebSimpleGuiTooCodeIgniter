@@ -1,0 +1,5 @@
+ofxXmlSettings
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
+ofxWebSimpleGuiToo
+ofxWebSimpleServer
