@@ -13,11 +13,12 @@ https://github.com/EllisLab/CodeIgniter/
 OpenFrameworks
 --------
 OpenFrameworks is a C++ toolkit for creative coding.
+(tested with OF v080 win cb release)
 
 https://github.com/openframeworks/openFrameworks
 
 You will also need some addons:
-* ofxSimpleGuiToo https://code.google.com/p/ofxmarek/downloads/detail?name=ofxWebSimpleGuiToo.zip&can=2&q=
+* ofxWebSimpleGuiToo: https://code.google.com/p/ofxmarek/downloads/detail?name=ofxWebSimpleGuiToo.zip&can=2&q=
 * ofxWebServer https://github.com/mazbox/ofxWebServer
 * ofxSimpleGuiToo https://github.com/memo/ofxSimpleGuiToo
 * ofxMSAInteractiveObject https://github.com/memo/ofxMSAInteractiveObject
